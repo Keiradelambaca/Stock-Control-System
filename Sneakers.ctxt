@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Sneakers
+comment0.text=\r\n\ Sneakers\ subclass\ that\ inherits\ from\ Shoes\ \r\n
+comment1.params=
+comment1.target=Sneakers()
+comment1.text=constructors
+comment2.params=size\ colour\ brand\ price\ stock\ model\ laces
+comment2.target=Sneakers(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getModel()
+comment3.text=standard\ operations
+comment4.params=
+comment4.target=boolean\ getLaces()
+comment5.params=model
+comment5.target=void\ setModel(java.lang.String)
+comment6.params=laces
+comment6.target=void\ setLaces(boolean)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=to\ string
+numComments=8
